@@ -6,6 +6,9 @@
 * 組織
 	* [側邊欄](sidebar.md)
 
+* 樣式
+	* [佈景主題](theme.md)
+
 * 功能
 	* [查詢](search.md)
 	* [Google Analytics](google-analytics.md)
