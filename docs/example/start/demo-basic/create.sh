@@ -51,7 +51,7 @@ EOF
 
 
 create_nojekyll () {
-	echo > .nojekyll
+	echo -n > .nojekyll
 }
 
 
