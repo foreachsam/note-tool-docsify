@@ -8,3 +8,4 @@
 
 * 功能
 	* [查詢](search.md)
+	* [Google Analytics](google-analytics.md)
