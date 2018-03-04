@@ -116,7 +116,7 @@ firefox http://localhost:3000
 
 ## 完整範例
 
-* [demo-basic](https://github.com/foreachsam/note-tool-docsify/tree/gh-pages/docs/example/docsify-cli/demo-basic/)
+* [example/start/demo-basic](https://github.com/foreachsam/note-tool-docsify/tree/gh-pages/docs/example/docsify-cli/demo-basic/) ([觀看](https://foreachsam.github.io/note-tool-docsify/docs/example/docsify-cli/demo-basic/docs/))
 
 
 ## 更多參考
