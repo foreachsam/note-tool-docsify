@@ -13,3 +13,7 @@
 * 功能
 	* [查詢](search.md)
 	* [Google Analytics](google-analytics.md)
+
+* 關聯
+	* [類似工具](similar.md)
+	* [CDN](cdn.md)
