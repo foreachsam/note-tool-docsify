@@ -5,3 +5,6 @@
 
 * 組織
 	* [側邊欄](sidebar.md)
+
+* 功能
+	* [查詢](search.md)
