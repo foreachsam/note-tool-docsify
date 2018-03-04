@@ -8,6 +8,7 @@
 
 * 樣式
 	* [佈景主題](theme.md)
+	* [語法突顯](syntax-highlight.md)
 
 * 功能
 	* [查詢](search.md)
