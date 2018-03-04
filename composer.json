@@ -1,0 +1,16 @@
+{
+	"name": "foreachsam/note-tool-docsify",
+	"description": "docsify 使用筆記",
+	"type": "project",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "foreachsam",
+			"email": "foreachsam@users.noreply.github.com"
+		}
+	],
+	"scripts": {
+		"serve": "php -S localhost:8080 -t docs/"
+	},
+	"require": {}
+}

@@ -1,0 +1,23 @@
+{
+	"name": "note-tool-docsify",
+	"version": "1.0.0",
+	"description": "docsify 使用筆記",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"serve": "php -S localhost:8080 -t docs/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/foreachsam/note-tool-docsify.git"
+	},
+	"keywords": [
+		"docsify"
+	],
+	"author": "foreachsam <foreachsam@users.noreply.github.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/foreachsam/note-tool-docsify/issues"
+	},
+	"homepage": "https://github.com/foreachsam/note-tool-docsify#readme"
+}
