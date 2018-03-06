@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://foreachsam.github.io/note-tool-docsify/sitemap.xml
