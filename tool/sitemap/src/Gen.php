@@ -7,9 +7,6 @@ class Gen {
 	protected $_ExceptDirNameList = NULL;
 	protected $_ExceptFileNameList = NULL;
 
-	protected $_SourceFile = NULL;
-	protected $_TargetUri = NULL;
-
 	protected $_SaveFile = NULL;
 
 	protected $_Engine = NUll;
@@ -124,17 +121,17 @@ class Gen {
 		//var_dump($file_name);
 		//var_dump($sub_path);
 
-		$this->_SourceFile = (new SourceFile)
+		$source_file = (new SourceFile)
 			->setFilePath($file_path)
 			->setSubPath($sub_path)
 		;
 
-		$this->_TargetUri = (new NodeUri)
-			->setSourceFile($this->_SourceFile)
+		$target_uri = (new NodeUri)
+			->setSourceFile($source_file)
 			->setBaseUri($this->_BaseUri)
 		;
 
-		$this->_Engine->push($this->_TargetUri);
+		$this->_Engine->push($target_uri);
 
 
 	}
