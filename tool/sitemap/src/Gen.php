@@ -399,7 +399,7 @@ class EngineDumpXml extends EngineDumpList {
 
 	public function preRun()
 	{
-		$this->_Date = date("Y-m-d");
+		$this->_Date = date('Y-m-d');
 		$this->write($this->renderHead());
 	}
 
@@ -495,6 +495,7 @@ class EngineSaveXml extends EngineDumpXml {
 		// http://php.net/manual/en/function.fopen.php
 		$this->_Stream = fopen($this->_Target->getFilePath(), 'w+');
 
+		$this->_Date = date('Y-m-d');
 		$this->write($this->renderHead());
 	}
 
