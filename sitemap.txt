@@ -1,0 +1,10 @@
+https://foreachsam.github.io/note-tool-docsify/docs/#/
+https://foreachsam.github.io/note-tool-docsify/docs/#/docsify-cli
+https://foreachsam.github.io/note-tool-docsify/docs/#/theme
+https://foreachsam.github.io/note-tool-docsify/docs/#/sidebar
+https://foreachsam.github.io/note-tool-docsify/docs/#/google-analytics
+https://foreachsam.github.io/note-tool-docsify/docs/#/syntax-highlight
+https://foreachsam.github.io/note-tool-docsify/docs/#/cdn
+https://foreachsam.github.io/note-tool-docsify/docs/#/search
+https://foreachsam.github.io/note-tool-docsify/docs/#/start
+https://foreachsam.github.io/note-tool-docsify/docs/#/similar
